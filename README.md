@@ -28,7 +28,7 @@
 </div>
 
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -47,7 +47,7 @@
 <hr>
 
 <div align="center">
-  <h2>🐍Snake eating my contribution. </h2>
+  <h2>🐍 Snake eating my contribution 🐍</h2>
   <br>
   <img src="https://github.com/KushalTanna24/KushalTanna24/blob/output/github-contribution-grid-snake.svg">
   <br>
