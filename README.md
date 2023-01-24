@@ -41,7 +41,7 @@
 <h4>Learning</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,solidity,aws,kubernetes,googlecloud,tensorflow,flutter,electron,docker" />
+    <img src="https://skillicons.dev/icons?i=solidity,googlecloud" />
   </a>
 </p>
 <hr>
