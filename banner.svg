@@ -1,0 +1,31 @@
+<svg width="1280" height="320" viewBox="0 0 1280 320" fill="none" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#4F46E5"/>
+    </linearGradient>
+    <linearGradient id="area" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2563EB" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#2563EB" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="320" fill="#FAFAFC"/>
+  <g stroke="#E6E8EF" stroke-width="1">
+    <line x1="860" y1="80" x2="860" y2="250"/><line x1="924" y1="80" x2="924" y2="250"/>
+    <line x1="988" y1="80" x2="988" y2="250"/><line x1="1052" y1="80" x2="1052" y2="250"/>
+    <line x1="1116" y1="80" x2="1116" y2="250"/><line x1="1180" y1="80" x2="1180" y2="250"/>
+    <line x1="840" y1="100" x2="1200" y2="100"/><line x1="840" y1="150" x2="1200" y2="150"/>
+    <line x1="840" y1="200" x2="1200" y2="200"/><line x1="840" y1="250" x2="1200" y2="250"/>
+  </g>
+  <path d="M860 222 L924 198 L988 208 L1052 152 L1116 168 L1180 104 L1180 250 L860 250 Z" fill="url(#area)"/>
+  <path d="M860 222 L924 198 L988 208 L1052 152 L1116 168 L1180 104" stroke="url(#accent)" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <g fill="#FFFFFF" stroke="url(#accent)" stroke-width="3">
+    <circle cx="860" cy="222" r="5"/><circle cx="924" cy="198" r="5"/><circle cx="988" cy="208" r="5"/>
+    <circle cx="1052" cy="152" r="5"/><circle cx="1116" cy="168" r="5"/><circle cx="1180" cy="104" r="6.5"/>
+  </g>
+  <text x="80" y="148" font-size="66" font-weight="800" fill="#0F172A" letter-spacing="0.5">KUSHAL TANNA</text>
+  <rect x="84" y="170" width="62" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="84" y="210" font-size="21" font-weight="600" letter-spacing="5.5" fill="#2563EB">FULL-STACK SOFTWARE ENGINEER</text>
+  <text x="84" y="244" font-size="19" font-weight="400" fill="#475569">Developer&#160;&#160;&#183;&#160;&#160;Product thinker&#160;&#160;&#183;&#160;&#160;Precision-driven</text>
+  <text x="84" y="276" font-size="16" font-weight="400" fill="#94A3B8" font-style="italic">If it&#8217;s worth building, it&#8217;s worth refining.</text>
+</svg>
